@@ -6,44 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Experimental_Main/Lobby/Lobby.unity
-    guid: 7a322486dbb004b1f998dd4b8b5bfa03
-  - enabled: 1
-    path: Assets/Scenes/CameraTestScene/Camera.unity
-    guid: 1bf36ae57edb140eea3c3c5e49530022
-  - enabled: 1
     path: Assets/Scene/GeogBook1.unity
     guid: ad5590b0a98fb984eb295a9df81d1f6e
-  - enabled: 1
-    path: Assets/Scene/GeogBook2.unity
-    guid: 975c6ddfd02d29446be3d8b25d063965
-  - enabled: 1
-    path: Assets/Experimental_Main/AR/ImageTracking/GeogBook3.unity
-    guid: b11bc1b96c2be4aa2a097279a7f0adfb
-  - enabled: 1
-    path: Assets/Experimental_Main/AR/WebTestPrefab/WebView.unity
-    guid: 55b1a989e3fea4331b4815e2dc4b1bcd
-  - enabled: 1
-    path: Assets/Experimental_Main/AR/BodyTrack/BodyTracking.unity
-    guid: b331b1cb5efd84f9aada7a7d17efe533
-  - enabled: 1
-    path: Assets/Experimental_Main/VR/ChooseVR.unity
-    guid: 9835e8bf689aa70498c63a229ebc588f
-  - enabled: 1
-    path: Assets/Experimental_Main/VR/3DVr/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
-  - enabled: 1
-    path: Assets/Experimental_Main/VR/3DVr/Scenes/CustomVRScene.unity
-    guid: 37bfddc9583344c1bb8dcf87bf36eab2
-  - enabled: 1
-    path: Assets/Experimental_Main/VR/360VR/Scene/3dVista.unity
-    guid: c0082ce490441438ea750f4e2842a6ee
-  - enabled: 1
-    path: Assets/Experimental_Main/AR/ARSimpleScene/SampleScene.unity
-    guid: 2a3b3fb0ee6a8447f80b966acf3b27d1
-  - enabled: 1
-    path: Assets/Experimental_Main/TyphoonVFX/GeogARTyphoon/TyphoonDemoAR.unity
-    guid: 34e3edc80998e47cc99d04dec5fe95b7
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
