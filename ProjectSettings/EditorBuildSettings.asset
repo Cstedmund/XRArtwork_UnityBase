@@ -12,10 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/CameraTestScene/Camera.unity
     guid: 1bf36ae57edb140eea3c3c5e49530022
   - enabled: 1
-    path: Assets/Experimental_Main/AR/ImageTracking/GeogBook1.unity
+    path: Assets/Scene/GeogBook1.unity
     guid: ad5590b0a98fb984eb295a9df81d1f6e
   - enabled: 1
-    path: Assets/Experimental_Main/AR/ImageTracking/GeogBook2.unity
+    path: Assets/Scene/GeogBook2.unity
     guid: 975c6ddfd02d29446be3d8b25d063965
   - enabled: 1
     path: Assets/Experimental_Main/AR/ImageTracking/GeogBook3.unity
