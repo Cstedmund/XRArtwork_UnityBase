@@ -36,8 +36,12 @@ public class TrackedImageManager : MonoBehaviour
 
     private void Start() {
         activeObjects = new List<GameObject>();
-        m_TrackedImageManager.referenceLibrary = gameManager.currentBook.aRImageLibrary;
+        //Debug.Log("get image library? ");
+        //m_TrackedImageManager.referenceLibrary = gameManager.currentBook.aRImageLibrary;
+        //Debug.Log(m_TrackedImageManager.referenceLibrary == null);
+        Debug.Log("get spawnManager? ");
         spawnManager = GameObject.FindObjectOfType<SpawnManager>().GetComponent<SpawnManager>();
+        Debug.Log(spawnManager == null);
     }
 
     private void OnEnable() {

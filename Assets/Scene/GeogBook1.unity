@@ -924,12 +924,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 7280763175822352208, guid: 8cb0be82a6f254039b877101d7b4e6b9,
+    - target: {fileID: 5171451269615909708, guid: 8cb0be82a6f254039b877101d7b4e6b9,
         type: 3}
-      propertyPath: currentBook
+      propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 11400000, guid: 81b341d25ee4a40cba98ac30935c5047,
-        type: 2}
+      objectReference: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 5171451269615909708, guid: 8cb0be82a6f254039b877101d7b4e6b9,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5171451269615909708, guid: 8cb0be82a6f254039b877101d7b4e6b9,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5171451269615909708, guid: 8cb0be82a6f254039b877101d7b4e6b9,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7280763175822352209, guid: 8cb0be82a6f254039b877101d7b4e6b9,
         type: 3}
       propertyPath: m_RootOrder

@@ -122,7 +122,7 @@ MonoBehaviour:
   debugOn: 1
   debugIndicator: {fileID: 6037471579069863154}
   currentLanguage: 0
-  currentBook: {fileID: 11400000, guid: f89d914ded94649ccbf201c25de53eaa, type: 2}
+  currentBook: {fileID: 11400000, guid: 81b341d25ee4a40cba98ac30935c5047, type: 2}
   currentURL: 
   previousScene: 
 --- !u!1 &7362951782787182188
