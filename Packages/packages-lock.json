@@ -15,7 +15,7 @@
         "com.unity.xr.management": "3.2.9",
         "com.unity.xr.legacyinputhelpers": "2.1.4"
       },
-      "hash": "891dec0b1ac7e0ebfcda448e321333b6062f54a0"
+      "hash": "9442fcc8fbd7384d27fdedb17cf64e9453c77998"
     },
     "com.siccity.gltfutility": {
       "version": "https://github.com/siccity/gltfutility.git",
@@ -24,7 +24,7 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
-      "hash": "dca94bb8c5c3ca0fc19560e7759d42ccc31f2d8a"
+      "hash": "ac70aeb91915ccb157eedca167b7de8a4b55fd31"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -331,7 +331,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "d3f2980193805b851e05f1e25c73a1c034f0084a"
+      "hash": "68b94c8c050a28288be2871e86f404405313d7e3"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
